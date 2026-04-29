@@ -8,7 +8,7 @@
 Установка и запуск
 
 1. Клонировать репозиторий
-git clone https://github.com/usernameisalreadytaken0/currency-converter.git
+git clone https://github.com/KENDZHII/currency-converter.git
 cd currency-converter
 2. Установить зависимости
 pip install requests
